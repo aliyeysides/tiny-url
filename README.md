@@ -1,6 +1,6 @@
 tiny url shortener using flask and redis
 
-```
+```zsh
 # install python dependency
 pip install flask redis
 
